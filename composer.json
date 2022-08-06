@@ -1,0 +1,30 @@
+{
+    "name": "deivesfahl/php-sql-query-builder",
+    "description": "Construtor de consultas para a linguagem SQL",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Deives Fahl",
+            "email": "dfahl.cps@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "v3.8.0",
+        "pestphp/pest": "v1.21.3",
+        "symfony/var-dumper": "v6.0.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "DB\\": "src/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        },
+        "sort-packages": true
+    }
+}

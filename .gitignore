@@ -1,0 +1,9 @@
+/.vscode
+/vendor
+
+.phpunit.results.txt
+composer.lock
+
+*.cache
+*.log
+*.todo
