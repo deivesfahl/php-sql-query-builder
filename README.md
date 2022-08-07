@@ -316,3 +316,23 @@ array:2 [
   ]
 ]
 ```
+
+# Lista de Tarefas
+
+-   [ ] Adicionar teste de unidade
+-   [ ] Customizar exceções
+-   [ ] Adicionar whereIn
+-   [ ] Adicionar whereNotIn
+-   [ ] Adicionar whereNull
+-   [ ] Adicionar whereNotNull
+-   [ ] Adicionar método latest
+-   [ ] Adicionar método count
+-   [ ] Adicionar método max
+-   [ ] Adicionar método min
+-   [ ] Adicionar método avg
+-   [ ] Adicionar método sum
+-   [ ] Adicionar método exists
+-   [ ] Adicionar método doesntExist
+-   [ ] Adicionar método increment
+-   [ ] Adicionar método decrement
+-   [ ] Adicionar método truncate
